@@ -8,3 +8,5 @@
 
 5.Plastic Waste Management through the Development of a Low Cost and
  Light Weight Deep Learning Based Reverse Vending Machine(recycling-07-00070-v2.pdf)
+
+6.solid waste generated (solid waste generated.pdf)
