@@ -38,5 +38,6 @@ Waste Segregation using Smart bin and Optimization of Collection Routes  (ssrn-3
 
 Adverse Health Effects among Household Waste Collectors in Taiwan  (yang2001.pdf)
 
+Solid Waste Management for Sustainable Development and Public health (ujph.2013.010301.pdf)
 
 
